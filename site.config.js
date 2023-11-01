@@ -1,19 +1,19 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "stargamer",
+    name: "2ne1xxi",
     image: "/20UMGIM12176.rgb.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "master/prores collector",
-    bio: "i post my collection on this site. if you want to exchange/buy, e-mail me.",
-    email: "stargamer5@protonmail.com",
+    role: "2NE1 collector",
+    bio: "i post my collection on this site. if you want to get a file, e-mail me.",
+    email: "2ne1xxiprores@gmail.com",
     linkedin: "",
     github: "",
     instagram: "",
   },
   // blog setting (required)
   blog: {
-    title: "stargamer",
-    description: "Stargamer Master/ProRes Collection",
+    title: "2ne1xxi",
+    description: "2ne1xxi Collection",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
