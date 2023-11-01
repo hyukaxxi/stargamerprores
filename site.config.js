@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "2ne1xxi",
-    image: "/20UMGIM12176.rgb.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "2NE1 collector",
     bio: "i post my collection on this site. if you want to get a file, e-mail me.",
     email: "2ne1xxiprores@gmail.com",
